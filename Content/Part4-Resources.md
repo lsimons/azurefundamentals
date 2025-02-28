@@ -147,7 +147,7 @@ As we move from warmer to colder storage tiers we pay less per GB of data stored
 
 ### Databases
 
-Finally, Azure offers a wide variety of options of running Microsoft SQL-comaptible databases:
+Finally, Azure offers a wide variety of options of running Microsoft SQL-compatible databases:
 - Azure SQL
 - Azure SQL Managed Instance
 - MS SQL in a VM
