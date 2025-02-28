@@ -61,7 +61,7 @@ Almost every Azure Resource has to be deployed to a specific region. Some resour
 
 There are 60+ Azure regions across all (habitable) continents, and new ones are added regularly. 
 
-![Azure Regions](Images/azureRegions.png)
+![Azure Regions](images/azureRegions.png)
 
 The region(s) you choose to run your application(s) will have a significant impact down the line:
 
