@@ -152,7 +152,7 @@ Finally, Azure offers a wide variety of options of running Microsoft SQL-comapti
 - Azure SQL Managed Instance
 - MS SQL in a VM
 
-as well as an array of managed open-source databeses like:
+as well as an array of managed open-source databases like:
 - MySQL
 - PostreSQL
 - MariaDB
