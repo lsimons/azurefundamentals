@@ -228,8 +228,8 @@ The MFA service provided by Azure Active Directory supports the following forms 
 - Microsoft Authenticator
 - Windows Hello for Business
 - FIDO2 security key
-- OATH hardware token 
-- OATH software token
+- OAUTH hardware token 
+- OAUTH software token
 - SMS
 - Voice call
 
